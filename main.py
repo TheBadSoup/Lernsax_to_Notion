@@ -1,4 +1,4 @@
-from connectionAPI import *
+from connection import *
 import json
 from scraping import Lernsax
 
