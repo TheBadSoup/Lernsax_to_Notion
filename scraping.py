@@ -15,23 +15,8 @@ class Lernsax:
 
         # teacher -> subject
         self.faecher = {
-            'H. Fleischer': "Info",
-            'kohlhoff.heiner' : "PHY",
-            'Evelyn Zinner' : "GEO",
-            'Claudia Kämke' : "MA",
-            'roeber.max' : "MU",
-            'Regine Richter' : "FRZ",
-            'Felix Kollender' : "GRW",
-            'thieme.heike' : "EN",
-            'Matthias Dirks' : "CHE",
-            'Irene Ullrich' : "BIO",
-            'Alex Hanicke' : "ETH",
-            'steinert.kerstin' : "DE",
-            'lange.maja' : "KU",
-            'R. Hengst' : "INFO",
-            'bergmann.anne' : "RELI",
-            "frenzel.uwe" : "SPORT",
-            'Dirk Köhler' : "INFO"
+            "Max Mustermann": "Info"
+            ...
         }
 
         try:
